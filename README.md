@@ -105,6 +105,7 @@ After hyperparameter tuning and cross-validation, Random Forest achieved the str
 
 ##  Repository Structure
 
+'''
 credit-card-fraud-detection/
 │
 ├── notebooks/
@@ -122,7 +123,7 @@ credit-card-fraud-detection/
 ├── requirements.txt
 ├── LICENSE
 └── dataset_link.txt
-
+'''
 ---
 
 ##  Future Improvements
