@@ -126,6 +126,16 @@ credit-card-fraud-detection/
 ```
 ---
 
+# Visualizations
+![Class Distribution](images/class_distribution.png)
+![Confusion Matrix Decision Tree](images/confusion_matrix_decision_tree.png)
+![Confusion Matrix Linear SVC](images/confusion_matrix_linear_svc.png)
+![Confusion Matrix Logistic Regression](images/confusion_matrix_log_reg.png)
+![Confusion Matrix Random Forest](images/confusion_matrix_rf.png)
+![Model Comparison](images/model_comparison.png)
+
+---
+
 ##  Future Improvements
 
 * XGBoost
