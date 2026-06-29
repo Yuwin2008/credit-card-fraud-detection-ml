@@ -4,6 +4,13 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 ##  Project Overview
 
 Credit card fraud detection is a real-world binary classification problem where fraudulent transactions represent only a tiny fraction of all transactions. The objective of this project is to build and compare multiple machine learning models capable of identifying fraudulent transactions while minimizing false negatives.
