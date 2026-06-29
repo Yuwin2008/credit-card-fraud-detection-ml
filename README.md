@@ -105,14 +105,23 @@ After hyperparameter tuning and cross-validation, Random Forest achieved the str
 
 ##  Repository Structure
 
-```text
 credit-card-fraud-detection/
 │
+├── notebooks/
+│   └── credit_card_fraud_detection.ipynb
+│
+├── images/
+│   ├── class_distribution.png
+│   ├── confusion_matrix_rf.png
+│   ├── confusion_matrix_decision_tree.png
+│   ├── confusion_matrix_linear_svc.png
+│   ├── confusion_matrix_log_reg.png
+│   └── model_comparison.png
+│
 ├── README.md
-├── credit_card_fraud_detection.ipynb
 ├── requirements.txt
-└── LICENSE
-```
+├── LICENSE
+└── dataset_link.txt
 
 ---
 
